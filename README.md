@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on a custom Minecraft launcher using C#, focusing on performance, design, and user experience.<br><br>Programming is more than a skill for me — it’s something I genuinely enjoy. I code to learn, to create, and to stay at peace.<br><br>I’m also an anime lover, and I often find inspiration in storytelling, visuals, and emotions from anime.<br><br>Tech tack -<br>C++<br>C#<br>C<br>TypeScript (TSX)<br>JavaScript<br>Java<br>Python<br>GO LANG
+I’m currently working on a custom Minecraft launcher using C#, focusing on performance, design, and user experience.<br><br>Programming is more than a skill for me — it’s something I genuinely enjoy. I code to learn, to create, and to stay at peace.<br><br>I’m also an anime lover, and I often find inspiration in storytelling, visuals, and emotions from anime.<br><br>Tech stack -<br>C++<br>C#<br>C<br>TypeScript (TSX)<br>JavaScript<br>Java<br>Python<br>GO LANG
 
 
 ## 🌐 Socials:
