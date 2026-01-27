@@ -10,25 +10,25 @@
 
 ## 💫 About Me
 
-🎯 I’m a **creative-focused software developer** who enjoys building things that *feel alive*.
+🌐 I’m a **Full‑Stack Developer** who builds complete systems — from low‑level logic to polished user interfaces.
 
 * 🧩 Currently working on a **custom Minecraft Launcher (C#)**
-* 🧠 Coding keeps me calm, curious, and evolving
-* 🎌 Anime heavily influences my **UI sense, pacing, and storytelling**
-* ⚙️ Obsessed with **performance, polish, and user experience**
+* 🧠 I enjoy designing **end‑to‑end architectures** (frontend, backend, infra)
+* 🎌 Anime inspires my **visual design, transitions, and storytelling**
+* ⚙️ Strong focus on **performance, scalability, and clean UX**
 
 ---
 
-## 🧠 Developer Philosophy
+## 🧠 Full‑Stack Philosophy
 
-> *“Good code runs. Great code feels invisible.”*
+> *“A real full‑stack dev understands the system — not just the screen.”*
 
 I focus on:
 
-* Clean architecture
-* Smooth animations
-* Intuitive UX
-* Scalable systems
+* Frontend performance & animations
+* Backend architecture & APIs
+* Databases & cloud deployment
+* Clean code that scales
 
 ---
 
@@ -98,16 +98,31 @@ A Unity-based game project focused on mechanics, optimization, and clean gamepla
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Full‑Stack Tech Stack
 
 ### 💻 Languages
 
-C • C++ • C# • Java • Python • Go • TypeScript • JavaScript
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,go,js,ts,dart,html,css" />
+</p>
 
-### 🖥 Frameworks & Tools
+### 🖥 Frameworks & Runtimes
 
-.NET • Unity • Unreal • React • NestJS • Node.js • Tauri • Tailwind • Firebase
-AWS • Azure • GCP • Nginx • Apache • OpenGL
+<p align="center">
+<img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,nestjs,tauri,unity,unreal" />
+</p>
+
+### ☁️ Cloud, Backend & DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,supabase,nginx,apache,docker" />
+</p>
+
+### 🎨 UI, Graphics & Creative Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,threejs,opencv" />
+</p>
 
 ---
 
