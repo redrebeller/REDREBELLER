@@ -1,108 +1,51 @@
 <!-- 
   ========================================================
-  PREMIUM GITHUB PROFILE README
-  Identity: REDREBELLER | Zoi Paglu | RedX Cloud Owner
-  Aesthetic: Dark Cyberpunk / Crimson Accents / Anime / Tech
+  🌌 REDREBELLER DIGITAL WORLD SUITE 
+  Theme: 3D Cyberpunk / Crimson Neon / Holographic
+  Identity: Zoi Paglu / RedX Cloud Owner / Noob Dev™
   ========================================================
 -->
 
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:E03131&height=250&section=header&text=REDREBELLER&fontSize=70&fontAlignY=35&desc=Owner%20of%20RedX%20Cloud%20%E2%98%81%EF%B8%8F%20%E2%80%A2%20Zoi%20Paglu%20%E2%80%A2%20Noob%20Dev%E2%84%A2%20%E2%80%A2%20Always%20Building%20%F0%9F%9A%80&descAlignY=55&descAlign=62&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
-
-<!-- DYNAMIC TYPING TAGLINE -->
+<!-- 🧊 3D HERO ANIMATION (Custom Asset) -->
+<!-- Upload your rendered 3D Hero GIF to the assets folder -->
 <a href="https://github.com/REDREBELLER">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=E03131&center=true&vCenter=true&width=800&lines=System.out.println(%22Professional+bug+creator.+Amateur+bug+fixer.%22);Console.WriteLine(%22Working+on+the+Zoi+Series+%F0%9F%9A%80%22);std::cout+%3C%3C+%22Coding+because+sitting+idle+is+boring.%22;print(%22Just+a+noob+dev+trying+to+stay+busy+%F0%9F%92%BB%22)" alt="Typing SVG" />
+  <img src="./assets/3d_hero_workspace.gif" alt="REDREBELLER 3D Cyber Workspace" width="100%" style="border-radius: 15px; box-shadow: 0px 0px 20px #FF003C;" />
 </a>
 
-<br>
-
-<!-- PROFILE METRICS -->
+<!-- DYNAMIC TYPING HOLOGRAM -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=REDREBELLER&label=SYSTEM+ACCESSES&color=E03131&style=for-the-badge" alt="Profile Views" />
-  <a href="https://github.com/REDREBELLER?tab=followers">
-    <img src="https://img.shields.io/github/followers/REDREBELLER?label=ALLIES&style=for-the-badge&color=000000&labelColor=E03131" alt="Followers" />
-  </a>
-  <img src="https://img.shields.io/github/stars/REDREBELLER?label=REPUTATION&style=for-the-badge&color=000000&labelColor=E03131" alt="Stars" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF003C&center=true&vCenter=true&width=800&lines=%3E_SYSTEM.LOGIN(%22REDREBELLER%22);%3E_OWNER_REDX_CLOUD_ONLINE;%3E_ZOI_SERIES_INITIALIZED;%3E_MINECRAFT_CORE_LOADED;%3E_NOOB_DEV_TRYING_TO_STAY_BUSY" alt="Holographic Terminal" />
 </p>
 
-<!-- SOCIAL LINKS -->
+<!-- HOLOGRAPHIC METRICS -->
 <p align="center">
-  <a href="https://discord.com/users/YOUR_DISCORD_ID">
-    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=E03131&borderColor=E03131" alt="Discord" />
-  </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM_HANDLE">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E03131&borderColor=E03131" alt="Instagram" />
-  </a>
-  <a href="https://youtube.com/@YOUR_YOUTUBE_CHANNEL">
-    <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=E03131&borderColor=E03131" alt="YouTube" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@EXAMPLE.COM">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=E03131&borderColor=E03131" alt="Email" />
+  <img src="https://komarev.com/ghpvc/?username=REDREBELLER&label=SYSTEM+ACCESSES&color=FF003C&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/REDREBELLER?tab=followers">
+    <img src="https://img.shields.io/github/followers/REDREBELLER?label=ALLIES&style=for-the-badge&color=0D1117&labelColor=FF003C" alt="Followers" />
   </a>
 </p>
 </div>
 
 ---
 
-<br>
-
-<table width="100%">
+<table width="100%" style="border: none;">
   <tr>
-    <td width="100%" valign="top">
-      <h2 align="left">👋 About This Paglu</h2>
-      <p align="left">
-        Hey! I'm <b>REDREBELLER</b> — Owner of <b>RedX Cloud</b>, a developer, Minecraft enthusiast, and certified <i>Zoi Paglu</i>. 
-      </p>
-      <p align="left">
-        I'm basically a <b>Noob Dev™</b> trying to stay busy by building random things that somehow turn into actual, functional projects. I don't always know exactly what I'm doing when I start, but somehow things get built. I code, I break things, I Google things, I fix things... and then I repeat the entire chaotic cycle all over again.
-      </p>
-      <p align="left">
-        Deeply inspired by the storytelling, atmospheric visuals, and emotions of anime, I try to inject that same passion into my work. Whether I'm managing cloud infrastructure or designing a sleek desktop app, I love experimenting and learning along the way.
-      </p>
-      <br>
-      <div align="center">
-        <code>&gt; Build something  →  &gt; Break something  →  &gt; Fix it  →  &gt; Repeat</code>
-      </div>
+    <td width="30%" align="center" valign="center">
+      <!-- 🌀 UNIQUE 3D IDENTITY ANIMATION (Custom Asset) -->
+      <img src="./assets/zoi_paglu_hologram.gif" width="250px" alt="Zoi Paglu Hologram" />
     </td>
-  </tr>
-</table>
-
-<br>
-
-<h2 align="center">🚀 WHAT I'M WORKING ON</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">☁️ RedX Cloud</h3>
+    <td width="70%" valign="top">
+      <h2 align="left">🧠 ABOUT THIS PAGLU</h2>
       <p align="left">
-        <b>Owner & Builder</b><br>
-        My core project focused on cloud, hosting, infrastructure, and technology. This is where I experiment with servers, deployments, and keeping systems running smoothly.
+        Hey! I'm <b>REDREBELLER</b> — Owner of <b>RedX Cloud</b>, a Minecraft enthusiast, and a certified <i>Zoi Paglu</i>. Operating my servers and writing code from Bhagalpur, India, I'm basically a <b>Noob Dev™</b> trying to stay busy by building random things that somehow turn into highly functional projects.
       </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">🌌 Zoi Series</h3>
       <p align="left">
-        <b>Active Ecosystem</b><br>
-        A growing collection of software projects, experiments, and tools I am actively developing. The series is always expanding as I learn new things.
+        I don't always know what I'm doing when I open my IDE, but somehow things get built. I'm deeply inspired by anime aesthetics, blending digital storytelling and atmospheric design into my software architecture. 
       </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">🎮 Custom Minecraft Launcher</h3>
       <p align="left">
-        <b>C# / .NET Application</b><br>
-        A custom-built launcher prioritizing performance, clean design, and a seamless user experience. Combining my love for Minecraft with serious software architecture.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">💻 Random Things</h3>
-      <p align="left">
-        <b>The Chaos Lab</b><br>
-        Because I apparently cannot stop starting new projects. If I'm bored, I'm coding something new. Some of it breaks, some of it is brilliant. All of it is fun.
+        <i>I code, I break things, I Google things, I ask AI things, I fix things... and then I repeat the entire chaotic cycle all over again.</i>
       </p>
     </td>
   </tr>
@@ -111,77 +54,86 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=E03131&height=4&width=100%" />
+  <!-- 🔥 3D ANIMATED "DEV LOOP" (Custom Asset) -->
+  <img src="./assets/dev_loop_cycle.gif" width="80%" alt="Idea -> Code -> Break -> Debug -> Deploy" />
 </div>
 
 <br>
 
-<h2 align="center">🌐 TECHNOLOGY_MATRIX</h2>
+<h2 align="center">🌐 THE DIGITAL INFRASTRUCTURE</h2>
 
-<p align="center">
-  <i>The tools I use to pretend I know what I'm doing.</i>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <!-- ☁️ REDX CLOUD 3D VISUAL (Custom Asset) -->
+      <img src="./assets/redx_cloud_core.gif" width="100%" alt="RedX Cloud Data Center" />
+      <h3 align="center">☁️ RedX Cloud Core</h3>
+      <p align="center">
+        <b>[ Owner & Architect ]</b><br>
+        My cloud, hosting, and infrastructure playground. The digital backbone where I experiment with server deployments, networking, and keeping systems alive.
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <!-- 🎮 MINECRAFT LAUNCHER VISUAL (Custom Asset) -->
+      <img src="./assets/minecraft_launcher_cube.gif" width="100%" alt="Minecraft C# Block" />
+      <h3 align="center">🎮 Custom Minecraft Launcher</h3>
+      <p align="center">
+        <b>[ C# / .NET Application ]</b><br>
+        Built from the ground up for extreme performance, striking UI/UX, and native integration. It's where my love for gaming meets serious desktop engineering.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h2 align="center">🌌 THE ZOI SERIES PROJECTS</h2>
+<p align="center"><i>A holographic ecosystem of continuous development.</i></p>
+
+<div align="center">
+  <a href="https://github.com/REDREBELLER/ZOI_PROJECT_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=REDREBELLER&repo=ZOI_PROJECT_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF003C&text_color=c9c9c9&icon_color=FF003C" width="48%" />
+  </a>
+  <a href="https://github.com/REDREBELLER/ZOI_PROJECT_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=REDREBELLER&repo=ZOI_PROJECT_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF003C&text_color=c9c9c9&icon_color=FF003C" width="48%" />
+  </a>
+</div>
+
+<br>
+
+<h2 align="center">🧊 TECHNOLOGY HOLOGRAPHS</h2>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="25%"><b>⚙️ Languages</b></td>
-      <td align="center" width="25%"><b>🎨 Frontend</b></td>
-      <td align="center" width="25%"><b>🔌 Backend</b></td>
-      <td align="center" width="25%"><b>🖥️ Desktop & Game Dev</b></td>
+      <td align="center" width="33%"><b>💻 Programming Core</b></td>
+      <td align="center" width="33%"><b>🌐 Web Interfaces</b></td>
+      <td align="center" width="33%"><b>☁️ Cloud & Servers</b></td>
     </tr>
     <tr>
       <td align="center">
-        <br>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,go,js,ts&theme=dark&perline=4" />
-        </a>
+        <br><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,go,js,ts&theme=dark&perline=4" /></a>
       </td>
       <td align="center">
-        <br>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=dark&perline=3" />
-        </a>
+        <br><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,nodejs,nestjs&theme=dark&perline=4" /></a>
       </td>
       <td align="center">
-        <br>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet&theme=dark&perline=3" />
-        </a>
-      </td>
-      <td align="center">
-        <br>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=dotnet,tauri,unity,unreal&theme=dark&perline=2" />
-        </a>
+        <br><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,supabase,linux,docker,nginx&theme=dark&perline=4" /></a>
       </td>
     </tr>
   </table>
   <br>
   <table>
     <tr>
-      <td align="center" width="33%"><b>☁️ Cloud & Infrastructure</b></td>
-      <td align="center" width="33%"><b>🛠️ DevOps & Servers</b></td>
-      <td align="center" width="33%"><b>🎨 Creative & Data</b></td>
+      <td align="center" width="50%"><b>🎮 Desktop & Game Engine</b></td>
+      <td align="center" width="50%"><b>🎨 AI, Data & Creative Tools</b></td>
     </tr>
     <tr>
       <td align="center">
-        <br>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,supabase&theme=dark&perline=3" />
-        </a>
+        <br><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,tauri,unity,unreal&theme=dark&perline=4" /></a>
       </td>
       <td align="center">
-        <br>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=linux,docker,nginx,apache&theme=dark&perline=2" />
-        </a>
-      </td>
-      <td align="center">
-        <br>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=pytorch,ps,pr,ae&theme=dark&perline=2" />
-        </a>
+        <br><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,ps,pr,ae&theme=dark&perline=4" /></a>
       </td>
     </tr>
   </table>
@@ -189,41 +141,22 @@
 
 <br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=E03131&height=4&width=100%" />
-</div>
-
-<br>
-
-<h2 align="center">🔥 FEATURED_DEPLOYMENTS</h2>
+<h2 align="center">📊 SYSTEM_DASHBOARD.exe</h2>
 
 <div align="center">
-  <a href="https://github.com/REDREBELLER/YOUR_MINECRAFT_LAUNCHER_REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=REDREBELLER&repo=YOUR_MINECRAFT_LAUNCHER_REPO&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E03131&text_color=c9c9c9&icon_color=E03131" width="48%" />
-  </a>
-  <a href="https://github.com/REDREBELLER/YOUR_ZOI_SERIES_REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=REDREBELLER&repo=YOUR_ZOI_SERIES_REPO&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E03131&text_color=c9c9c9&icon_color=E03131" width="48%" />
-  </a>
-</div>
-
-<br>
-
-<h2 align="center">📊 SYSTEM_ANALYTICS</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=REDREBELLER&theme=radical&no-frame=true&no-bg=true&margin-w=15&title-text-color=E03131" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=REDREBELLER&theme=radical&no-frame=true&no-bg=true&margin-w=15&title-text-color=FF003C" alt="GitHub Trophies" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=REDREBELLER&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E03131&text_color=c9c9c9&icon_color=E03131&ring_color=E03131" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=REDREBELLER&theme=tokyonight&hide_border=true&background=0D1117&ring=E03131&fire=E03131&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9c9c9&dates=c9c9c9" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=REDREBELLER&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF003C&text_color=c9c9c9&icon_color=FF003C&ring_color=FF003C" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=REDREBELLER&theme=tokyonight&hide_border=true&background=0D1117&ring=FF003C&fire=FF003C&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9c9c9&dates=c9c9c9" width="48%" alt="GitHub Streak" />
 </div>
 
 <br>
 
-<h2 align="center">🐍 CONTRIBUTION_NETWORK</h2>
+<h2 align="center">🐍 CONTRIBUTION GRID</h2>
 
 <div align="center">
   <picture>
@@ -235,7 +168,25 @@
 
 <br>
 
-<!-- ANIMATED FOOTER WAVE -->
+<h2 align="center">🔌 ESTABLISH CONNECTION</h2>
+
+<p align="center">
+  <a href="https://discord.gg/97ebTP7Aj6">
+    <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=FF003C&borderColor=FF003C" alt="Discord" />
+  </a>
+  <a href="https://instagram.com/redrebeller">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF003C&borderColor=FF003C" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/@redrebeller">
+    <img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF003C&borderColor=FF003C" alt="YouTube" />
+  </a>
+  <a href="mailto:redrebeller75@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF003C&borderColor=FF003C" alt="Email" />
+  </a>
+</p>
+
+<!-- 🚀 3D FOOTER (Custom Asset or Capsule Render Fallback) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E03131,100:000000&height=150&section=footer&text=Zoi%20Paglu%20%E2%80%94%20Officially%20Unofficial.&fontSize=22&fontAlignY=70&fontColor=ffffff" width="100%" alt="Footer Banner" />
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF003C,100:000000&height=180&section=footer&text=Build%20something.%20Break%20something.%20Learn%20something.%20Repeat.&fontSize=20&fontAlignY=60&desc=—%20Zoi%20Paglu%20🤡&descAlignY=80&descAlign=50&fontColor=ffffff" width="100%" alt="Footer Banner" />
 </div>
