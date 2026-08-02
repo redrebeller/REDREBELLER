@@ -1,21 +1,248 @@
-# 💫 About Me:
-I’m currently working on a custom Minecraft launcher using C#, focusing on performance, design, and user experience.<br><br>Programming is more than a skill for me — it’s something I genuinely enjoy. I code to learn, to create, and to stay at peace.<br><br>I’m also an anime lover, and I often find inspiration in storytelling, visuals, and emotions from anime.<br><br>Tech stack -<br>C++<br>C#<br>C<br>TypeScript (TSX)<br>JavaScript<br>Java<br>Python<br>GO LANG
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
+<!--                    REDREBELLER • GITHUB README                 -->
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/97ebTP7Aj6) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@redrebeller) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@redrebeller) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:redrebeller75@gmail.com) 
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=REDREBELLER&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=REDREBELLER&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=REDREBELLER&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=REDREBELLER&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
+# ⚡ REDREBELLER
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF4D6D&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+Minecraft+Enthusiast;Building+Things+I+Wish+Existed;C%23+%7C+C%2B%2B+%7C+TypeScript+%7C+Python;Creating+%E2%80%A2+Learning+%E2%80%A2+Breaking+%E2%80%A2+Rebuilding;Welcome+to+my+digital+world+%E2%9C%A8" alt="Typing SVG" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=REDREBELLER&label=PROFILE+VIEWS&color=ff4d6d&style=for-the-badge" />
+
+<br><br>
+
+<a href="https://github.com/REDREBELLER">
+<img src="https://img.shields.io/github/followers/REDREBELLER?style=for-the-badge&logo=github&label=Followers&color=181717" />
+</a>
+
+<a href="https://github.com/REDREBELLER?tab=repositories">
+<img src="https://img.shields.io/github/stars/REDREBELLER?style=for-the-badge&logo=github&label=Total%20Stars&color=ffd700" />
+</a>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=REDREBELLER&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+```yaml
+name: RedRebeller
+role: Developer & Creator
+currently_building: Custom Minecraft Launcher
+main_focus:
+  - Performance
+  - UI/UX
+  - Software Development
+  - Minecraft Ecosystem
+  - Creative Technology
+
+mindset:
+  - Learn
+  - Build
+  - Experiment
+  - Improve
+
+fun_fact: I turn ideas into code and code into projects.
+```
+
+I'm a developer who enjoys **building things from scratch** and exploring how software works under the hood.
+
+🚀 Currently working on a **custom Minecraft Launcher using C#**, with a strong focus on:
+
+* ⚡ Performance
+* 🎨 Modern UI/UX
+* 🧩 Mod & Version Management
+* 🎮 Minecraft Integration
+* 🖥️ Desktop Application Development
+
+For me, programming isn't just about writing code.
+
+> **I code to learn. I code to create. I code because I enjoy the process.**
+
+I'm also an **anime enthusiast**, and I often draw inspiration from anime storytelling, visuals, atmosphere, and emotions.
+
+---
+
+## 🚀 What I'm Currently Doing
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎮 Minecraft Launcher
+
+Building a custom Minecraft launcher focused on:
+
+* ⚡ Fast startup
+* 🎨 Modern interface
+* 📦 Mod management
+* 🔧 Custom configurations
+* 🧠 Smart performance
+* 🖥️ Desktop experience
+
+</td>
+
+<td width="50%">
+
+### 💻 Developer Journey
+
+Currently exploring:
+
+* C# & .NET
+* C++
+* TypeScript
+* Software Architecture
+* Game Development
+* Cloud Infrastructure
+* AI & Machine Learning
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 Languages I Use
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,cs,c,java,python,go,js,ts&perline=8" />
+
+</div>
+
+---
+
+## ⚙️ Technologies & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=dotnet,react,nextjs,nodejs,nestjs,tauri,threejs,tailwind,bootstrap&perline=9" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,supabase,linux,nginx,apache,docker&perline=9" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=unity,unreal,blender,opencv,pytorch,cmake,git,github,vscode&perline=9" />
+
+</div>
+
+---
+
+## 🎨 Creative & Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=photoshop,pr,ae&perline=3" />
+
+</div>
+
+I also enjoy working with **video editing, motion graphics, visual design, game development, and creative technology**.
+
+---
+
+# 🔥 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/REDREBELLER">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=REDREBELLER&repo=YOUR_REPO_1&theme=shadow_red&hide_border=true" />
+</a>
+
+<a href="https://github.com/REDREBELLER">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=REDREBELLER&repo=YOUR_REPO_2&theme=shadow_red&hide_border=true" />
+</a>
+
+</div>
+
+> 💡 Replace `YOUR_REPO_1` and `YOUR_REPO_2` with your actual repository names.
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=REDREBELLER&show_icons=true&theme=shadow_red&hide_border=true&count_private=true&include_all_commits=true" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=REDREBELLER&theme=shadow_red&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REDREBELLER&theme=shadow_red&hide_border=true&layout=compact&langs_count=10" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/REDREBELLER/REDREBELLER/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=REDREBELLER&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=REDREBELLER&theme=redical&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://discord.gg/97ebTP7Aj6">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/redrebeller">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/@redrebeller">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<a href="mailto:redrebeller75@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "Build something. Break something. Learn something."
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer" />
+
+</div>
