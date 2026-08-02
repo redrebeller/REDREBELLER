@@ -1,6 +1,7 @@
 <!-- 
   ========================================================
   PREMIUM GITHUB PROFILE README
+  Identity: REDREBELLER | Zoi Paglu | RedX Cloud Owner
   Aesthetic: Dark Cyberpunk / Crimson Accents / Anime / Tech
   ========================================================
 -->
@@ -8,11 +9,11 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:E03131&height=250&section=header&text=REDREBELLER&fontSize=80&fontAlignY=35&desc=Developer%20%E2%80%A2%20Creator%20%E2%80%A2%20Minecraft%20Architect&descAlignY=55&descAlign=62&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:E03131&height=250&section=header&text=REDREBELLER&fontSize=70&fontAlignY=35&desc=Owner%20of%20RedX%20Cloud%20%E2%98%81%EF%B8%8F%20%E2%80%A2%20Zoi%20Paglu%20%E2%80%A2%20Noob%20Dev%E2%84%A2%20%E2%80%A2%20Always%20Building%20%F0%9F%9A%80&descAlignY=55&descAlign=62&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
 
 <!-- DYNAMIC TYPING TAGLINE -->
 <a href="https://github.com/REDREBELLER">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=E03131&center=true&vCenter=true&width=600&lines=System.out.println(%22Building+Custom+Minecraft+Experiences%22);Console.WriteLine(%22Crafting+High-Performance+Software%22);std::cout+%3C%3C+%22Anime-Inspired+Visuals+%26+Atmosphere%22;print(%22Architecting+Digital+Worlds%22)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=E03131&center=true&vCenter=true&width=800&lines=System.out.println(%22Professional+bug+creator.+Amateur+bug+fixer.%22);Console.WriteLine(%22Working+on+the+Zoi+Series+%F0%9F%9A%80%22);std::cout+%3C%3C+%22Coding+because+sitting+idle+is+boring.%22;print(%22Just+a+noob+dev+trying+to+stay+busy+%F0%9F%92%BB%22)" alt="Typing SVG" />
 </a>
 
 <br>
@@ -49,30 +50,59 @@
 
 <table width="100%">
   <tr>
-    <td width="60%" valign="top">
-      <h2 align="left">⚡ SYSTEM_IDENTITY.exe</h2>
+    <td width="100%" valign="top">
+      <h2 align="left">👋 About This Paglu</h2>
       <p align="left">
-        I am a software engineer focused on <b>performance, modern design, and exceptional user experiences</b>. Programming isn't just a career for me; it's a digital sandbox where I code to learn, create, experiment, and constantly improve. 
+        Hey! I'm <b>REDREBELLER</b> — Owner of <b>RedX Cloud</b>, a developer, Minecraft enthusiast, and certified <i>Zoi Paglu</i>. 
       </p>
       <p align="left">
-        Deeply inspired by the <b>storytelling, atmospheric visuals, and emotions of anime</b>, I strive to bring that same level of immersion and aesthetics into the software I build. Whether architecting scalable backend systems or designing intuitive desktop applications, my goal is to bridge robust engineering with elegant design.
+        I'm basically a <b>Noob Dev™</b> trying to stay busy by building random things that somehow turn into actual, functional projects. I don't always know exactly what I'm doing when I start, but somehow things get built. I code, I break things, I Google things, I fix things... and then I repeat the entire chaotic cycle all over again.
+      </p>
+      <p align="left">
+        Deeply inspired by the storytelling, atmospheric visuals, and emotions of anime, I try to inject that same passion into my work. Whether I'm managing cloud infrastructure or designing a sleek desktop app, I love experimenting and learning along the way.
       </p>
       <br>
-      <h3 align="left">🧠 THE DEVELOPER PROTOCOL</h3>
-      <code>&gt; ARCHITECT  →  &gt; CONSTRUCT  →  &gt; DECONSTRUCT  →  &gt; EVOLVE  →  &gt; LOOP</code>
-    </td>
-    <td width="40%" valign="top" align="center">
-      <h2 align="center">⚔️ CURRENTLY BUILDING</h2>
       <div align="center">
-        <a href="https://github.com/REDREBELLER/YOUR_MINECRAFT_LAUNCHER_REPO">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=REDREBELLER&repo=YOUR_MINECRAFT_LAUNCHER_REPO&theme=transparent&hide_border=true&title_color=E03131&text_color=c9c9c9&icon_color=E03131&bg_color=0D1117" alt="Minecraft Launcher" />
-        </a>
+        <code>&gt; Build something  →  &gt; Break something  →  &gt; Fix it  →  &gt; Repeat</code>
       </div>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h2 align="center">🚀 WHAT I'M WORKING ON</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">☁️ RedX Cloud</h3>
       <p align="left">
-        <b>[ Custom Minecraft Launcher ]</b><br>
-        🎮 <b>Focus:</b> Performance & Modern UI/UX<br>
-        💻 <b>Core:</b> C# / .NET / Desktop Architecture<br>
-        📦 <b>Features:</b> Native Integration, Mod & Version Management
+        <b>Owner & Builder</b><br>
+        My core project focused on cloud, hosting, infrastructure, and technology. This is where I experiment with servers, deployments, and keeping systems running smoothly.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">🌌 Zoi Series</h3>
+      <p align="left">
+        <b>Active Ecosystem</b><br>
+        A growing collection of software projects, experiments, and tools I am actively developing. The series is always expanding as I learn new things.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🎮 Custom Minecraft Launcher</h3>
+      <p align="left">
+        <b>C# / .NET Application</b><br>
+        A custom-built launcher prioritizing performance, clean design, and a seamless user experience. Combining my love for Minecraft with serious software architecture.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">💻 Random Things</h3>
+      <p align="left">
+        <b>The Chaos Lab</b><br>
+        Because I apparently cannot stop starting new projects. If I'm bored, I'm coding something new. Some of it breaks, some of it is brilliant. All of it is fun.
       </p>
     </td>
   </tr>
@@ -89,7 +119,7 @@
 <h2 align="center">🌐 TECHNOLOGY_MATRIX</h2>
 
 <p align="center">
-  <i>Technologies engineered into my current stack.</i>
+  <i>The tools I use to pretend I know what I'm doing.</i>
 </p>
 
 <div align="center">
@@ -165,14 +195,14 @@
 
 <br>
 
-<h2 align="center">🚀 FEATURED_DEPLOYMENTS</h2>
+<h2 align="center">🔥 FEATURED_DEPLOYMENTS</h2>
 
 <div align="center">
-  <a href="https://github.com/REDREBELLER/YOUR_REPOSITORY_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=REDREBELLER&repo=YOUR_REPOSITORY_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E03131&text_color=c9c9c9&icon_color=E03131" width="48%" />
+  <a href="https://github.com/REDREBELLER/YOUR_MINECRAFT_LAUNCHER_REPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=REDREBELLER&repo=YOUR_MINECRAFT_LAUNCHER_REPO&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E03131&text_color=c9c9c9&icon_color=E03131" width="48%" />
   </a>
-  <a href="https://github.com/REDREBELLER/YOUR_REPOSITORY_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=REDREBELLER&repo=YOUR_REPOSITORY_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E03131&text_color=c9c9c9&icon_color=E03131" width="48%" />
+  <a href="https://github.com/REDREBELLER/YOUR_ZOI_SERIES_REPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=REDREBELLER&repo=YOUR_ZOI_SERIES_REPO&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E03131&text_color=c9c9c9&icon_color=E03131" width="48%" />
   </a>
 </div>
 
@@ -207,5 +237,5 @@
 
 <!-- ANIMATED FOOTER WAVE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E03131,100:000000&height=150&section=footer&text=%22Build%20the%20future.%20Break%20the%20limits.%20Master%20the%20code.%22&fontSize=22&fontAlignY=70&fontColor=ffffff" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E03131,100:000000&height=150&section=footer&text=Zoi%20Paglu%20%E2%80%94%20Officially%20Unofficial.&fontSize=22&fontAlignY=70&fontColor=ffffff" width="100%" alt="Footer Banner" />
 </div>
